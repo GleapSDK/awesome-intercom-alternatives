@@ -21,38 +21,54 @@ Legend: ✅ yes, ❌ no, ➖ not verified.
 - **Mobile SDKs**: native iOS and Android SDKs for the customer-facing chat or widget.
 - **Session replay**: a recording of what the customer saw, attached to the conversation or report.
 - **Bug reports**: an in-app widget that captures screenshots plus technical context such as console logs, network requests and device data.
+- **Flat pricing**: the bill does not grow with agent seats, conversations or resolutions. Tiers with included limits count, per-seat and per-usage meters do not.
 
 ## Help desks and messengers
 
 Full replacements for the Intercom inbox, messenger and help center.
 
-Product | Open source | Free plan | AI agent | Mobile SDKs | Session replay | Bug reports | Pricing model
---- | --- | --- | --- | --- | --- | --- | ---
-[Intercom](https://www.intercom.com) (reference) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat, plus $0.99 per Fin resolution
-[Chaport](https://www.chaport.com) | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | Per seat
-[Chatwoot](https://www.chatwoot.com) | ✅ MIT | ✅ | ✅ | ➖ React Native and Flutter only | ❌ | ❌ | Per agent, plus AI credits
-[Crisp](https://crisp.chat) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | Flat per workspace, extra seats
-[Customerly](https://www.customerly.io) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat, plus per AI conversation
-[Freshchat](https://www.freshworks.com/live-chat-software/) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | Per agent, plus per AI session
-[Front](https://front.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat, plus per AI resolution
-[Gleap](https://gleap.io) | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | Flat per plan with unlimited seats, AI usage billed separately
-[Gorgias](https://www.gorgias.com) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | Per ticket, plus per AI resolution
-[Help Scout](https://www.helpscout.com) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | Per seat, plus per AI resolution
-[HelpCrunch](https://helpcrunch.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat, plus AI conversation packs
-[HubSpot Service Hub](https://www.hubspot.com/products/service) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | Per seat, plus AI credits
-[JivoChat](https://www.jivochat.com) | ❌ | ✅ | ✅ | ✅ | ➖ | ❌ | Per seat, AI agent per seat
-[Kustomer](https://www.kustomer.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat or per conversation, plus AI
-[Lime Connect](https://connect.lime-technologies.com) (formerly Userlike) | ❌ | ✅ | ✅ | ➖ | ❌ | ❌ | Per seat, AI agent add-on
-[LiveAgent](https://www.liveagent.com) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | Per agent
-[LiveChat](https://www.livechat.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat
-[Olark](https://www.olark.com) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | Per seat, AI agent flat fee
-[Plain](https://www.plain.com) | ❌ | ❌ | ✅ | ➖ | ❌ | ❌ | Per seat, plus AI usage
-[Pylon](https://usepylon.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat, AI agent add-on
-[Smartsupp](https://www.smartsupp.com) | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | Per seat, AI agent add-on
-[tawk.to](https://www.tawk.to) | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Free core, paid add-ons
-[Tidio](https://www.tidio.com) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | Per conversation, plus Lyro AI usage
-[Zendesk](https://www.zendesk.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per agent, plus per automated resolution
-[Zoho SalesIQ](https://www.zoho.com/salesiq/) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | Per operator
+Product | Open source | Free plan | AI agent | Mobile SDKs | Session replay | Bug reports | Flat pricing | Pricing model
+--- | --- | --- | --- | --- | --- | --- | --- | ---
+[Intercom](https://www.intercom.com) (reference) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus $0.99 per Fin resolution
+[Chaport](https://www.chaport.com) | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | Per seat
+[Chatwoot](https://www.chatwoot.com) | ✅ MIT | ✅ | ✅ | ➖ React Native and Flutter only | ❌ | ❌ | ❌ | Per agent, plus AI credits
+[Crisp](https://crisp.chat) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | Flat per workspace, extra seats
+[Customerly](https://www.customerly.io) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus per AI conversation
+[Freshchat](https://www.freshworks.com/live-chat-software/) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per agent, plus per AI session
+[Front](https://front.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus per AI resolution
+[Gleap](https://gleap.io) | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | Flat per plan with unlimited seats, AI usage billed separately
+[Gorgias](https://www.gorgias.com) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | Per ticket, plus per AI resolution
+[Help Scout](https://www.helpscout.com) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus per AI resolution
+[HelpCrunch](https://helpcrunch.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus AI conversation packs
+[HubSpot Service Hub](https://www.hubspot.com/products/service) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus AI credits
+[JivoChat](https://www.jivochat.com) | ❌ | ✅ | ✅ | ✅ | ➖ | ❌ | ❌ | Per seat, AI agent per seat
+[Kustomer](https://www.kustomer.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat or per conversation, plus AI
+[Lime Connect](https://connect.lime-technologies.com) (formerly Userlike) | ❌ | ✅ | ✅ | ➖ | ❌ | ❌ | ❌ | Per seat, AI agent add-on
+[LiveAgent](https://www.liveagent.com) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | Per agent
+[LiveChat](https://www.livechat.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat
+[Olark](https://www.olark.com) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | Per seat, AI agent flat fee
+[Plain](https://www.plain.com) | ❌ | ❌ | ✅ | ➖ | ❌ | ❌ | ❌ | Per seat, plus AI usage
+[Pylon](https://usepylon.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, AI agent add-on
+[Smartsupp](https://www.smartsupp.com) | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | Per seat, AI agent add-on
+[tawk.to](https://www.tawk.to) | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | Free core, paid add-ons
+[Tidio](https://www.tidio.com) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per conversation, plus Lyro AI usage
+[Zendesk](https://www.zendesk.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per agent, plus per automated resolution
+[Zoho SalesIQ](https://www.zoho.com/salesiq/) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per operator
+
+## Flat pricing
+
+Tools where adding a teammate or a busy month does not change the invoice. Useful when support is shared across engineers, product and founders.
+
+Product | What the flat price covers | Where it stops being flat
+--- | --- | ---
+[Bugasura](https://bugasura.io) | Unlimited users and projects per workspace | Enterprise add-ons
+[Chatbase](https://www.chatbase.co) | Workspace tier with included message credits | Extra message credits
+[Crisp](https://crisp.chat) | Workspace with included seats and AI credits | Seats beyond the included pack
+[Gleap](https://gleap.io) | Unlimited seats and projects, all channels | AI usage is prepaid separately
+[tawk.to](https://www.tawk.to) | Chat, ticketing and knowledge base for free | Branding removal and AI Assist add-ons
+[Tiledesk](https://tiledesk.com) | Per project with included conversations | AI tokens
+[Userback](https://userback.io) | Seats included per plan tier | Feedback project limits per tier
+[Ybug](https://ybug.io) | Projects and team members included per tier | Next tier when limits are hit
 
 ## Open source
 
@@ -84,18 +100,18 @@ Product | Free plan | Pricing model | Notes
 
 For teams whose "support" is mostly bug reports from inside a product. Live chat marks tools where the same widget also carries a two-way conversation.
 
-Product | Free plan | Mobile SDKs | Session replay | Console and network logs | Live chat | Pricing model
---- | --- | --- | --- | --- | --- | ---
-[Bugasura](https://bugasura.io) | ✅ | ❌ | ✅ last 20 s | ✅ | ❌ | Flat per workspace
-[BugHerd](https://bugherd.com) | ❌ | ❌ | ➖ reporter-recorded video | ❌ | ❌ | Per seat
-[Gleap](https://gleap.io) | ❌ | ✅ | ✅ | ✅ | ✅ | Flat per plan, unlimited seats
-[Jam](https://jam.dev) | ✅ | ❌ | ✅ | ✅ | ❌ | Per creator seat
-[Luciq](https://www.luciq.ai) (formerly Instabug) | ❌ | ✅ | ✅ | ✅ | ✅ | Per daily active user, plus seats
-[Marker.io](https://marker.io) | ❌ | ❌ | ✅ | ✅ | ❌ | Per seat, reporters free
-[Shake](https://www.shakebugs.com) | ✅ | ✅ | ✅ | ✅ | ✅ | Per app, tiered by SDK installs
-[Userback](https://userback.io) | ✅ | ✅ | ✅ | ✅ | ❌ | Flat per plan
-[Usersnap](https://usersnap.com) | ❌ | ✅ | ➖ reporter-recorded video | ✅ | ❌ | Per seat
-[Ybug](https://ybug.io) | ✅ | ❌ | ✅ | ✅ | ❌ | Per project
+Product | Free plan | Mobile SDKs | Session replay | Console and network logs | Live chat | Flat pricing | Pricing model
+--- | --- | --- | --- | --- | --- | --- | ---
+[Bugasura](https://bugasura.io) | ✅ | ❌ | ✅ last 20 s | ✅ | ❌ | ✅ | Flat per workspace
+[BugHerd](https://bugherd.com) | ❌ | ❌ | ➖ reporter-recorded video | ❌ | ❌ | ❌ | Per seat
+[Gleap](https://gleap.io) | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | Flat per plan, unlimited seats
+[Jam](https://jam.dev) | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | Per creator seat
+[Luciq](https://www.luciq.ai) (formerly Instabug) | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | Per daily active user, plus seats
+[Marker.io](https://marker.io) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat, reporters free
+[Shake](https://www.shakebugs.com) | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | Per app, tiered by SDK installs
+[Userback](https://userback.io) | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | Flat per plan
+[Usersnap](https://usersnap.com) | ❌ | ✅ | ➖ reporter-recorded video | ✅ | ❌ | ❌ | Per seat
+[Ybug](https://ybug.io) | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | Per project
 
 ## Detailed comparisons
 
