@@ -1,10 +1,10 @@
 # Awesome Intercom Alternatives
 
-A comparison of customer support tools you can use instead of Intercom: help desks and messengers, open source projects, standalone AI agents, and in-app bug reporting widgets.
+Compare Intercom alternatives for customer support, live chat and in-app feedback. This list covers help desks and messengers, open-source projects, standalone AI agents and bug reporting tools.
 
-Every row is checked against the vendor's own pricing and docs pages. If something is wrong or out of date, open a pull request. Corrections are merged quickly.
+Use each vendor's pricing and documentation to check current limits. If something is wrong or out of date, open a pull request with a source.
 
-> Maintained by the team at [Gleap](https://gleap.io). Gleap is on the list, in alphabetical order, with the same yes/no rules as everyone else.
+> Maintained by the team at [Gleap](https://www.gleap.ai). Gleap is on the list, in alphabetical order, with the same yes/no rules as everyone else.
 
 ## How to read this list
 
@@ -36,7 +36,7 @@ Product | Open source | Free plan | AI agent | Mobile SDKs | Session replay | Bu
 [Customerly](https://www.customerly.io) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus per AI conversation
 [Freshchat](https://www.freshworks.com/live-chat-software/) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per agent, plus per AI session
 [Front](https://front.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus per AI resolution
-[Gleap](https://gleap.io) | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | Flat per plan with unlimited seats, AI usage billed separately
+[Gleap](https://www.gleap.ai) | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | Base plan plus AI usage; unlimited seats from Team ([pricing](https://www.gleap.ai/pricing))
 [Gorgias](https://www.gorgias.com) | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | Per ticket, plus per AI resolution
 [Help Scout](https://www.helpscout.com) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus per AI resolution
 [HelpCrunch](https://helpcrunch.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per seat, plus AI conversation packs
@@ -55,16 +55,16 @@ Product | Open source | Free plan | AI agent | Mobile SDKs | Session replay | Bu
 [Zendesk](https://www.zendesk.com) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | Per agent, plus per automated resolution
 [Zoho SalesIQ](https://www.zoho.com/salesiq/) | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | Per operator
 
-## Flat pricing
+## Base subscription pricing
 
-Tools where adding a teammate or a busy month does not change the invoice. Useful when support is shared across engineers, product and founders.
+These tools offer a base subscription or a free core. Included seats, usage limits and paid add-ons vary. Compare the total cost for your team and workload.
 
-Product | What the flat price covers | Where it stops being flat
+Product | What the base plan covers | Limits and additional charges
 --- | --- | ---
 [Bugasura](https://bugasura.io) | Unlimited users and projects per workspace | Enterprise add-ons
 [Chatbase](https://www.chatbase.co) | Workspace tier with included message credits | Extra message credits
 [Crisp](https://crisp.chat) | Workspace with included seats and AI credits | Seats beyond the included pack
-[Gleap](https://gleap.io) | Unlimited seats and projects, all channels | AI usage is prepaid separately
+[Gleap](https://www.gleap.ai) | Unlimited seats and projects from Team | Starter includes one seat and one project; AI usage is separate ([pricing](https://www.gleap.ai/pricing))
 [tawk.to](https://www.tawk.to) | Chat, ticketing and knowledge base for free | Branding removal and AI Assist add-ons
 [Tiledesk](https://tiledesk.com) | Per project with included conversations | AI tokens
 [Userback](https://userback.io) | Seats included per plan tier | Feedback project limits per tier
@@ -104,7 +104,7 @@ Product | Free plan | Mobile SDKs | Session replay | Console and network logs | 
 --- | --- | --- | --- | --- | --- | --- | ---
 [Bugasura](https://bugasura.io) | ✅ | ❌ | ✅ last 20 s | ✅ | ❌ | ✅ | Flat per workspace
 [BugHerd](https://bugherd.com) | ❌ | ❌ | ➖ reporter-recorded video | ❌ | ❌ | ❌ | Per seat
-[Gleap](https://gleap.io) | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | Flat per plan, unlimited seats
+[Gleap](https://www.gleap.ai) | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | Base plan plus AI usage; unlimited seats from Team ([pricing](https://www.gleap.ai/pricing))
 [Jam](https://jam.dev) | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | Per creator seat
 [Luciq](https://www.luciq.ai) (formerly Instabug) | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | Per daily active user, plus seats
 [Marker.io](https://marker.io) | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | Per seat, reporters free
@@ -117,31 +117,31 @@ Product | Free plan | Mobile SDKs | Session replay | Console and network logs | 
 
 Longer write-ups with current list prices, seat rules and workflow differences, written by the Gleap team:
 
-[Intercom](https://gleap.io/alternatives/fairly-priced-alternative-to-intercom) ·
-[Zendesk](https://gleap.io/alternatives/alternative-to-zendesk) ·
-[Freshdesk](https://gleap.io/alternatives/alternative-to-freshdesk) ·
-[Crisp](https://gleap.io/alternatives/alternative-to-crisp) ·
-[Front](https://gleap.io/alternatives/alternative-to-front) ·
-[Help Scout](https://gleap.io/alternatives/helpscout-alternative) ·
-[HelpCrunch](https://gleap.io/alternatives/alternative-to-helpcrunch) ·
-[HubSpot](https://gleap.io/alternatives/alternative-to-hubspot) ·
-[Gorgias](https://gleap.io/alternatives/alternative-to-gorgias) ·
-[Kustomer](https://gleap.io/alternatives/alternative-to-kustomer) ·
-[Pylon](https://gleap.io/alternatives/alternative-to-pylon) ·
-[tawk.to](https://gleap.io/alternatives/tawk-to-alternative) ·
-[Tidio](https://gleap.io/alternatives/tidio-alternative) ·
-[Zoho SalesIQ](https://gleap.io/alternatives/alternative-to-zoho-salesiq) ·
-[Decagon](https://gleap.io/alternatives/alternative-to-decagon) ·
-[Sierra](https://gleap.io/alternatives/alternative-to-sierra) ·
-[Instabug](https://gleap.io/alternatives/alternative-to-instabug) ·
-[Shake](https://gleap.io/alternatives/alternative-to-shakebugs) ·
-[Userback](https://gleap.io/alternatives/alternative-to-userback) ·
-[Usersnap](https://gleap.io/alternatives/alternative-to-usersnap) ·
-[Marker.io](https://gleap.io/alternatives/alternative-to-marker-io) ·
-[BugHerd](https://gleap.io/alternatives/alternative-to-bugherd) ·
-[Bugasura](https://gleap.io/alternatives/alternative-to-bugasura) ·
-[Jam](https://gleap.io/alternatives/alternative-to-jam) ·
-[Ybug](https://gleap.io/alternatives/alternative-to-ybug)
+[Intercom](https://www.gleap.ai/alternatives/fairly-priced-alternative-to-intercom) ·
+[Zendesk](https://www.gleap.ai/alternatives/alternative-to-zendesk) ·
+[Freshdesk](https://www.gleap.ai/alternatives/alternative-to-freshdesk) ·
+[Crisp](https://www.gleap.ai/alternatives/alternative-to-crisp) ·
+[Front](https://www.gleap.ai/alternatives/alternative-to-front) ·
+[Help Scout](https://www.gleap.ai/alternatives/helpscout-alternative) ·
+[HelpCrunch](https://www.gleap.ai/alternatives/alternative-to-helpcrunch) ·
+[HubSpot](https://www.gleap.ai/alternatives/alternative-to-hubspot) ·
+[Gorgias](https://www.gleap.ai/alternatives/alternative-to-gorgias) ·
+[Kustomer](https://www.gleap.ai/alternatives/alternative-to-kustomer) ·
+[Pylon](https://www.gleap.ai/alternatives/alternative-to-pylon) ·
+[tawk.to](https://www.gleap.ai/alternatives/tawk-to-alternative) ·
+[Tidio](https://www.gleap.ai/alternatives/tidio-alternative) ·
+[Zoho SalesIQ](https://www.gleap.ai/alternatives/alternative-to-zoho-salesiq) ·
+[Decagon](https://www.gleap.ai/alternatives/alternative-to-decagon) ·
+[Sierra](https://www.gleap.ai/alternatives/alternative-to-sierra) ·
+[Instabug](https://www.gleap.ai/alternatives/alternative-to-instabug) ·
+[Shake](https://www.gleap.ai/alternatives/alternative-to-shakebugs) ·
+[Userback](https://www.gleap.ai/alternatives/alternative-to-userback) ·
+[Usersnap](https://www.gleap.ai/alternatives/alternative-to-usersnap) ·
+[Marker.io](https://www.gleap.ai/alternatives/alternative-to-marker-io) ·
+[BugHerd](https://www.gleap.ai/alternatives/alternative-to-bugherd) ·
+[Bugasura](https://www.gleap.ai/alternatives/alternative-to-bugasura) ·
+[Jam](https://www.gleap.ai/alternatives/alternative-to-jam) ·
+[Ybug](https://www.gleap.ai/alternatives/alternative-to-ybug)
 
 ## Contributing
 
