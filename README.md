@@ -94,6 +94,7 @@ Product | Free plan | Pricing model | Notes
 [Ada](https://www.ada.cx) | ❌ | Per conversation, sales-led | iOS, Android and React Native SDKs
 [Chatbase](https://www.chatbase.co) | ✅ | Flat tiers, plus message credits | Fastest to try, weakest inbox
 [Decagon](https://decagon.ai) | ❌ | Per conversation or per resolution, sales-led | Mobile via WebView embed
+[Peeve](https://peeve.ai) | ❌ | Monthly plans with included credits, not per resolution | In-app widget and email; can walk users through steps in the product UI
 [Sierra](https://sierra.ai) | ❌ | Per resolution, sales-led | Native mobile SDKs, Apache-2.0
 
 ## In-app bug reporting and feedback widgets
